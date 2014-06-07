@@ -1,3 +1,0 @@
-novo_ime	https://github.com/vsiteprin/LAB08_A.git (fetch)
-novo_ime	https://github.com/vsiteprin/LAB08_A.git (push)
-Dubravko Maras
