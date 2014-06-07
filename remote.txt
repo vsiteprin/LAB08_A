@@ -1,3 +1,0 @@
-novi_naziv	https://github.com/vsiteprin/LAB08_A.git (fetch)
-novi_naziv	https://github.com/vsiteprin/LAB08_A.git (push)
-Vanja Jelkic
