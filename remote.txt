@@ -1,0 +1,5 @@
+origin	https://github.com/vsiteprin/LAB08_A.git (fetch)
+origin	https://github.com/vsiteprin/LAB08_A.git (push)
+lab_8_a	https://github.com/vsiteprin/LAB08_A.git (fetch)
+lab_8_a	https://github.com/vsiteprin/LAB08_A.git (push)
+Goran Vukoja
