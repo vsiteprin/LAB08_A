@@ -1,5 +1,30 @@
+<<<<<<< HEAD
 origin	https://github.com/vsiteprin/LAB08_A.git (fetch)
 origin	https://github.com/vsiteprin/LAB08_A.git (push)
 lab_8_a	https://github.com/vsiteprin/LAB08_A.git (fetch)
 lab_8_a	https://github.com/vsiteprin/LAB08_A.git (push)
 Goran Vukoja
+=======
+1.txt
+2.txt
+a.out
+dm.c
+dm.c~
+dm.exe
+em.c~
+em.exe
+gm.c
+gm.exe
+LAB08_A
+LAB08_B
+LAB08_C
+mg.c
+mg.exe
+mm.c
+mm.exe
+mm.o
+README.md
+remote.txt
+vj.c
+vj.exe
+>>>>>>> 4f5866a07e08407cd9fce775c9764740119ea67b
