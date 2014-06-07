@@ -1,0 +1,12 @@
+total 32
+drwxr-xr-x 3 root root 4096 Jun  7 09:42 .
+drwxr-xr-x 6 root root 4096 Jun  7 09:41 ..
+drwxr-xr-x 8 root root 4096 Jun  7 09:41 .git
+-rw-r--r-- 1 root root   74 Jun  7 09:41 mm.c
+-rwxr-xr-x 1 root root 7158 Jun  7 09:41 mm.exe
+-rw-r--r-- 1 root root 1032 Jun  7 09:41 mm.o
+-rw-r--r-- 1 root root   16 Jun  7 09:41 README.md
+-rw-r--r-- 1 root root    0 Jun  7 09:42 remote.txt
+
+origin1
+mario
