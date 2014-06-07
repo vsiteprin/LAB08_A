@@ -10,3 +10,31 @@ drwxr-xr-x 8 root root 4096 Jun  7 09:41 .git
 
 origin1
 mario
+
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   a.out
+#	new file:   mg.c
+#	new file:   remote.txt
+#
+➜  LAB08_A git:(master) ✗ git commit -m "lab 08 prvi commit"
+[master 330d9f4] lab 08 prvi commit
+ 3 files changed, 19 insertions(+)
+ create mode 100755 a.out
+ create mode 100755 mg.c
+ create mode 100644 remote.txt
+
+➜  LAB08_A git:(master) ✗ git push origin1 master
+WARNING: gnome-keyring:: couldn't connect to: /root/.cache/keyring-Q2dGcD/pkcs11: No such file or directory
+Username for 'https://github.com': vsiteprin
+Password for 'https://vsiteprin@github.com': 
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 2.89 KiB, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/vsiteprin/LAB08_A.git
+   90945fd..330d9f4  master -> master
+
