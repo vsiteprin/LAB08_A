@@ -5,6 +5,6 @@
 int main()
 {
   setlocale(LC_ALL, "");
-  wprintf(L"mario pleš\n");
+  wprintf(L"mario pokupec\n");
   return EXIT_SUCCESS;
 }
