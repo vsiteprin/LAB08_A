@@ -1,8 +1,6 @@
-#include <stdio.h>
-
-int main(void)
+#include<stdio.h>
+int main()
 {
-  printf("Domagoj\n");
-  return 0;
+printf("Dorotea Simunec\n");
+return 0;
 }
-
