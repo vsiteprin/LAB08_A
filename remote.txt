@@ -1,0 +1,3 @@
+renamedOrigin	https://github.com/vsiteprin/LAB08_A.git (fetch)
+renamedOrigin	https://github.com/vsiteprin/LAB08_A.git (push)
+Luka Spoljaric
