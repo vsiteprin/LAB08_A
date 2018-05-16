@@ -1,3 +1,8 @@
 renamedOrigin	https://github.com/vsiteprin/LAB08_A.git (fetch)
 renamedOrigin	https://github.com/vsiteprin/LAB08_A.git (push)
 Luka Spoljaric
+[master 05b76ed] lab 0 prvi commit
+ 4 files changed, 8 insertions(+)
+ create mode 100755 a.out
+ create mode 100644 ls.c
+ create mode 100755 ls.exe
