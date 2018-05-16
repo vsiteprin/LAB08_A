@@ -6,3 +6,4 @@ Luka Spoljaric
  create mode 100755 a.out
  create mode 100644 ls.c
  create mode 100755 ls.exe
+marko lucan
