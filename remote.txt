@@ -1,1 +1,5 @@
-Filip Horvat
+The following paths are ignored by one of your .gitignore files:
+filip_horvat.c~
+Use -f if you really want to add them.
+fatal: no files added
+
