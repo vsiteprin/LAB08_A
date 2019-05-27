@@ -1,1 +1,8 @@
 https://github.com/vsiteprin/LAB08_A
+
+
+warning: LF will be replaced by CRLF in remote.txt.
+The file will have its original line endings in your working directory.
+
+[master b908dc5] Lab 8 prvi commit
+ 1 file changed, 1 insertion(+), 9 deletions(-)
