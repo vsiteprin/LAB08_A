@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+=======
+https://github.com/vsiteprin/LAB08_A
+
+
+warning: LF will be replaced by CRLF in remote.txt.
+The file will have its original line endings in your working directory.
+
+[master b908dc5] Lab 8 prvi commit
+ 1 file changed, 1 insertion(+), 9 deletions(-)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+Username for 'https://github.com': vsiteprin
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1010 bytes | 202.00 KiB/s, done.
+Total 8 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 1 local object.
+To https://github.com/vsiteprin/LAB08_A
+   8f8e173..62fa8b5  master -> master
+>>>>>>> 7ff2062092b8ae9a811e1d0d85bbc0b08cb84eda
