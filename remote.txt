@@ -1,5 +1,39 @@
+<<<<<<< HEAD
 [master a61987d] lab 08 prvi komit
  4 files changed, 11 insertions(+), 10 deletions(-)
  create mode 100644 ss.c
  create mode 100755 ss.exe
 
+=======
+<<<<<<< HEAD
+The following paths are ignored by one of your .gitignore files:
+filip_horvat.c~
+Use -f if you really want to add them.
+fatal: no files added
+
+=======
+<<<<<<< HEAD
+=======
+https://github.com/vsiteprin/LAB08_A
+
+
+warning: LF will be replaced by CRLF in remote.txt.
+The file will have its original line endings in your working directory.
+
+[master b908dc5] Lab 8 prvi commit
+ 1 file changed, 1 insertion(+), 9 deletions(-)
+
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+Username for 'https://github.com': vsiteprin
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (8/8), 1010 bytes | 202.00 KiB/s, done.
+Total 8 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 1 local object.
+To https://github.com/vsiteprin/LAB08_A
+   8f8e173..62fa8b5  master -> master
+>>>>>>> 7ff2062092b8ae9a811e1d0d85bbc0b08cb84eda
+>>>>>>> f569fa6aba691013a0696552d24baafdf18d13f0
+>>>>>>> 69aae112ac4b3e7c8a7fdc75401ed4666f6ed1f5
