@@ -37,3 +37,7 @@ To https://github.com/vsiteprin/LAB08_A
 >>>>>>> 7ff2062092b8ae9a811e1d0d85bbc0b08cb84eda
 >>>>>>> f569fa6aba691013a0696552d24baafdf18d13f0
 >>>>>>> 69aae112ac4b3e7c8a7fdc75401ed4666f6ed1f5
+origin	https://github.com/vsiteprin/LAB08_A.git (fetch)
+origin	https://github.com/vsiteprin/LAB08_A.git (push)
+novi	https://github.com/vsiteprin/LAB08_A.git (fetch)
+novi	https://github.com/vsiteprin/LAB08_A.git (push)
