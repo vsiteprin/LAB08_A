@@ -1,7 +1,8 @@
 #include<stdio.h>
 
-	main()
-	{
-		
-		printf("mario");
+int main() {
+   
+   printf("Mihovil Golic");
+   return 0;
+
 	}
