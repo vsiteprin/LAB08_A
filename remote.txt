@@ -1,6 +1,0 @@
-LAB08_A	https://github.com/vsiteprin/LAB08_A.git (fetch)
-LAB08_A	https://github.com/vsiteprin/LAB08_A.git (push)
-LAB08_B	https://github.com/vsiteprin/LAB08_B.git (fetch)
-LAB08_B	https://github.com/vsiteprin/LAB08_B.git (push)
-LAB08_C	https://github.com/vsiteprin/LAB08_C.git (fetch)
-LAB08_C	https://github.com/vsiteprin/LAB08_C.git (push)
