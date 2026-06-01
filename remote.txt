@@ -1,3 +1,15 @@
 origin
 mojremote
 Veronika Mataija
+[master 68863b0] lab 08 prvi commit
+ 3 files changed, 10 insertions(+), 3 deletions(-)
+ create mode 100755 vm
+ create mode 100644 vm.c
+On branch master
+Your branch is ahead of 'mojremote/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+	modified:   remote.txt
+
+no changes added to commit
