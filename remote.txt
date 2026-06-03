@@ -16,3 +16,8 @@ no changes added to commit
 origin
 Novinaziv
 Moje ime je Josip Fadljevic
+On branch master
+Your branch is ahead of 'Novinaziv/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working directory clean
