@@ -13,3 +13,6 @@ Changes not staged for commit:
 	modified:   remote.txt
 
 no changes added to commit
+origin
+Novinaziv
+Moje ime je Josip Fadljevic
